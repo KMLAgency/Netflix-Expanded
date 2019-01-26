@@ -6,8 +6,8 @@
 // @author        Loky (StellarisStudio)
 // @icon          https://pbs.twimg.com/profile_images/966125580390252544/Cfnan8Nf.jpg
 // @namespace     https://github.com/StellarisStudio
-// @supportURL    https://github.com/StellarisStudio/Tampermonkey-Scripts
-// @homepageURL   https://github.com/StellarisStudio/Tampermonkey-Scripts
+// @supportURL    https://github.com/StellarisStudio/Netflix-Expanded
+// @homepageURL   https://github.com/StellarisStudio/Netflix-Expanded
 // @match         *://www.netflix.com/*
 // @grant         none
 // ==/UserScript==

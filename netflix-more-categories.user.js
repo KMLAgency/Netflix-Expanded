@@ -6,8 +6,8 @@
 // @author        Loky (StellarisStudio)
 // @icon          https://ya-webdesign.com/images/netflix-png-icon-5.png
 // @namespace     https://github.com/StellarisStudio
-// @supportURL    https://github.com/StellarisStudio/Tampermonkey-Scripts
-// @homepageURL   https://github.com/StellarisStudio/Tampermonkey-Scripts
+// @supportURL    https://github.com/StellarisStudio/Netflix-Expanded
+// @homepageURL   https://github.com/StellarisStudio/Netflix-Expanded
 // @match         https://www.netflix.com/*
 // @grant         GM_addStyle
 // ==/UserScript==
