@@ -4,7 +4,7 @@
 // @description   Automatically click the netflix "Skip intro" button when it appears.
 // @license       MIT
 // @author        Loky (StellarisStudio)
-// @icon          https://pbs.twimg.com/profile_images/966125580390252544/Cfnan8Nf.jpg
+// @icon          https://raw.githubusercontent.com/StellarisStudio/Netflix-Expanded/master/img/ico3.jpg
 // @namespace     https://github.com/StellarisStudio
 // @supportURL    https://github.com/StellarisStudio/Netflix-Expanded
 // @homepageURL   https://github.com/StellarisStudio/Netflix-Expanded

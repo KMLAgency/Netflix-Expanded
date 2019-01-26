@@ -4,7 +4,7 @@
 // @description   More visible content, Remove the billboard promotions and Disable Mouseover Trailers Auto-Preview, Add a "Go Top" Button, Centered player controls, Better Subtitles, Stretch video by default (remove black side) and add a button to control it!!
 // @license       MIT
 // @author        Loky (StellarisStudio)
-// @icon          https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/intermediary/f/05100836-b28d-4395-a29d-2f17b751c23f/dcc89w8-27bd9fa2-7ebd-4699-8b7f-383286d6e41d.png
+// @icon          https://raw.githubusercontent.com/StellarisStudio/Netflix-Expanded/master/img/ico1.png
 // @namespace     https://github.com/StellarisStudio
 // @supportURL    https://github.com/StellarisStudio/Netflix-Expanded
 // @homepageURL   https://github.com/StellarisStudio/Netflix-Expanded

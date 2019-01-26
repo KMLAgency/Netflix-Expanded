@@ -4,7 +4,7 @@
 // @description   Add a new menu entry with a lot of categories!
 // @license       MIT
 // @author        Loky (StellarisStudio)
-// @icon          https://ya-webdesign.com/images/netflix-png-icon-5.png
+// @icon          https://raw.githubusercontent.com/StellarisStudio/Netflix-Expanded/master/img/ico2.png
 // @namespace     https://github.com/StellarisStudio
 // @supportURL    https://github.com/StellarisStudio/Netflix-Expanded
 // @homepageURL   https://github.com/StellarisStudio/Netflix-Expanded
